@@ -1,0 +1,20 @@
+.image-wrapper{
+  margin-right: 10px;
+}
+.scrollUp{
+  color: #81dd0b;
+  position: fixed;
+  font-size: 5rem;
+  width:100%;
+  bottom: 10px;
+  height: 30px;
+  right: 10px;
+
+}
+.contact-link{
+  color:#81dd0b;
+  text-decoration: none;
+}
+.contact-link:hover{
+  text-decoration: underline;
+}

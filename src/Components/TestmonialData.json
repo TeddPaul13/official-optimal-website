@@ -1,0 +1,72 @@
+[
+    {
+        "firstname": "Cate",
+        "lastname": "Olademi",
+        "suburb":"Lalor Park",
+        "serviceprovided": "wall mounting",
+        "review":"Teddy mounted my artwork perfectly. He was first and efficient, also fair with pricing."
+    },
+    {
+        "firstname": "Hapreet",
+        "lastname": "Kaur",
+        "suburb":"Schofields",
+        "serviceprovided": "General Maintenance",
+        "review":"Fast and efficient rubbish removal from our garage. We will definately hire again."
+    },
+    {
+        "firstname": "Andy",
+        "lastname": "Gustavo",
+        "suburb":"Quakers Hill",
+        "serviceprovided": "Rubbish Removal",
+        "review":"Teddy mounted my artwork perfectly. He was first and efficient, also fair with pricing."
+    },
+    {
+        "firstname": "Christian",
+        "lastname": "S",
+        "suburb":"Blacktown",
+        "serviceprovided": "General Maintenance",
+        "review":"Prompt response and lawns done quickly. Thanks for your services."
+    },
+    {
+        "firstname": "Max",
+        "lastname": "Paul",
+        "suburb":"Riverstone",
+        "serviceprovided": "furniture assembly",
+        "review":"I had trouble with IKEA furniture, but Teddy came to my rescue and was done within minutes."
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "suburb": "Kellyville",
+        "serviceprovided": "General maintenance",
+        "review": "Very professional and thorough maintenance work."
+      },
+      {
+        "firstname": "Mike",
+        "lastname": "Johnson",
+        "suburb": "Box Hill",
+        "serviceprovided": "Wall mounting",
+        "review": "Quick and precise wall mounting service. Highly recommend!"
+      },
+      {
+        "firstname": "Alice",
+        "lastname": "Brown",
+        "suburb": "The Ponds",
+        "serviceprovided": "Furniture assembly",
+        "review": "Great job with assembling my new furniture. Couldn't be happier."
+      },
+      {
+        "firstname": "Charlie",
+        "lastname": "Davis",
+        "suburb": "Blacktown",
+        "serviceprovided": "Rubbish removal",
+        "review": "Efficient and friendly service for rubbish removal."
+      },
+      {
+        "firstname": "Emily",
+        "lastname": "Clark",
+        "suburb": "Seven Hills",
+        "serviceprovided": "General maintenance",
+        "review": "Very reliable and skilled in general maintenance tasks."
+      }
+]
