@@ -99,7 +99,7 @@ export default function CardForTestimonials() {
       <Grid container spacing={{ xs: 2, md: 3 }} justifyContent={"center"}>
         {displayedReviews.map((review, index) => (
           <Grid item xs={12} sm={3} md={4} key={index}>
-            <Box sx={{ display: "flex", justifyContent: "center", pb: 3 }}>
+            <Box sx={{ display: "flex", justifyContent: "center", pb: 4, pt: 4 }}>
               <Card sx={{ maxWidth: 345, height: "100%", background: "inherit", boxShadow: "none" }}>
                 <CardHeader
                   avatar={
@@ -110,9 +110,10 @@ export default function CardForTestimonials() {
                   }
                   title={`${review.firstname} ${review.lastname}`}
                   subheader={review.suburb}
+                  sx={{pb:0}}
                 />
-                <CardContent>
-                  <Typography variant="subtitle1" color="text.secondary">
+                <CardContent sx={{paddingTop:1}}>
+                  <Typography variant="subtitle1">
                     {review.serviceprovided.replace(/\b\w/g, (char) =>
                       char.toUpperCase()
                     )}

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.667e0907.css",
+    "main.js": "/static/js/main.9e993362.js",
+    "static/js/453.e7e05675.chunk.js": "/static/js/453.e7e05675.chunk.js",
+    "static/media/Landscape.png": "/static/media/Landscape.77275619f6081713293e.png",
+    "static/media/Letterbox.png": "/static/media/Letterbox.f5330d2a27d7047e4a73.png",
+    "static/media/Landscape2.png": "/static/media/Landscape2.3e9db81ced6d101d4043.png",
+    "static/media/Gazebo.png": "/static/media/Gazebo.ab4b30b513c1dfe7385a.png",
+    "static/media/Swingassembly.png": "/static/media/Swingassembly.580eabf28cbbea6baf18.png",
+    "static/media/Gardenbed.png": "/static/media/Gardenbed.76d3aa4cf89a237c89f4.png",
+    "static/media/Officechairs.png": "/static/media/Officechairs.3c6dd7854bc52a6bdea6.png",
+    "static/media/homeBackgroundImage.jpg": "/static/media/homeBackgroundImage.336f53432edda8de7a4d.jpg",
+    "static/media/Dishwasher.png": "/static/media/Dishwasher.cdcca64f0086719c9d7c.png",
+    "static/media/Assembly.png": "/static/media/Assembly.f4d92cfe4b4d53d94a88.png",
+    "static/media/Receptiondesk.png": "/static/media/Receptiondesk.33ce90177388b95d3199.png",
+    "static/media/Chestdrawer.png": "/static/media/Chestdrawer.b7527672053bbbd1228f.png",
+    "static/media/rubbishremoval1.png": "/static/media/rubbishremoval1.29823d3aeba4456ba619.png",
+    "static/media/WallMounting.jpg": "/static/media/WallMounting.e1debc66c0fd8864e31a.jpg",
+    "static/media/flatpackassembly.jpg": "/static/media/flatpackassembly.0c97316401b8276ffdec.jpg",
+    "static/media/fixingwithdrill.jpg": "/static/media/fixingwithdrill.6a0499f005fb3c2d58d2.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.667e0907.css.map": "/static/css/main.667e0907.css.map",
+    "main.9e993362.js.map": "/static/js/main.9e993362.js.map",
+    "453.e7e05675.chunk.js.map": "/static/js/453.e7e05675.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667e0907.css",
+    "static/js/main.9e993362.js"
+  ]
+}

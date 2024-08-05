@@ -92,7 +92,7 @@ function Footer() {
             }}
           >
             <Typography variant="h6" sx={{ mb: 2 }}>
-              Our Services
+              Services
             </Typography>
             <div style={{ marginBottom: 16 }}>
               <Typography variant="body" className="contact-link">
@@ -154,7 +154,7 @@ function Footer() {
           justifyContent: "center",
           mt: 2,
           mb: 2,
-          flexDirection: "column",
+          flexDirection:'column',
           alignItems: "center",
         }}
       >
@@ -162,11 +162,11 @@ function Footer() {
           <Typography
             variant="body2"
             display="inline-flex"
-            sx={{ mr: 1, flex: 1 }}
+           sx={{ mr: 1, flex: 1 }}
           >
-            Copyright
+            Copyright {yearToDisplay}
           </Typography>
-          <CopyrightIcon sx={{ fontSize: "inherit", mr: 1 }} /> {yearToDisplay}
+          {/* <CopyrightIcon sx={{ fontSize: "inherit", mr: 1 }} />  */}
           <Typography variant="body2" display="inline-flex" sx={{ ml: 1 }}>
             Optimal Handyman Services ABN 94946247183
           </Typography>

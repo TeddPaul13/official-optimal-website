@@ -15,6 +15,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import DatePickerValue from "./DatePicker";
 import SelectService from "./SelectService";
 import DrawerAppBar from "./AppBarWithDrawer";
+import { useNavigate } from "react-router-dom";
 
 
 export default function QuoteForm() {
@@ -22,6 +23,11 @@ export default function QuoteForm() {
   const notify = () => toast("Quote submitted successfully", {position: "top-center"})
 
   const formToEmail = useRef();
+  const navigate = useNavigate();
+
+  const navigateToHomePage = () => {
+    navigate("/");
+  };
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -156,6 +162,21 @@ export default function QuoteForm() {
           </form>
         </div>
       </Box>
+      <Box sx={{pt:1}}>
+      <Typography
+              variant="subtitle"
+              onClick={navigateToHomePage}
+              sx={{
+                marginTop: 2,
+                color: "black",
+                "&:hover": {
+                  color: "#81dd0b",
+                },
+              }}
+            >
+              Back To Home Page
+            </Typography>
+            </Box>
     </Container>
     <ToastContainer/>
     </>
