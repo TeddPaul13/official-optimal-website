@@ -10,7 +10,7 @@ import {
   Divider,
   Grid,
 } from "@mui/material";
-import CopyrightIcon from "@mui/icons-material/Copyright";
+
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
