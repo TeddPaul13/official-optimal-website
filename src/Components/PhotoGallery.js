@@ -3,6 +3,7 @@
  * @component
  */
 import React from "react";
+import { lazy } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -145,6 +146,7 @@ export default function PhotoGallery() {
                 <div className="image-wrapper">
                   <img
                     src={Image2}
+                    loading= "lazy"
                     alt="wall mounting"
                     style={{ maxWidth: "100%", maxHeight: "100%" }}
                   />

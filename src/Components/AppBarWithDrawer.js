@@ -110,7 +110,8 @@ function DrawerAppBar(props) {
               sx={{
                 flexGrow: 1,
                 textDecoration: "none",
-                color: "#81dd0b",
+                fontWeight: "bold",
+                color: "#267f00",
                 display: { xs: "none", sm: "block" },
               }}
               //TO DO Style this link
@@ -122,7 +123,7 @@ function DrawerAppBar(props) {
               {navItems.map((item) => (
                 <Button
                   key={item}
-                  sx={{ color: "#81dd0b" }}
+                  sx={{ color: "#267f00", fontWeight: "bold" }}
                   onClick={navigateToHomePage}
                 >
                   {item}
