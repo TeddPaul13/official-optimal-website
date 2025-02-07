@@ -25,6 +25,7 @@ export default function CardForTestimonials() {
    */
 
   const [customerReviews, setCustomerReviews] = useState([]);
+  const [isHovered, setIsHovered] = useState(false)
 
   /**
    * State variable to store displayed reviews.
@@ -57,13 +58,13 @@ export default function CardForTestimonials() {
    */
 
   useEffect(() => {
-    if (customerReviews.length > 0){const intervalId = setInterval(() => {
+    if (customerReviews.length > 0 && !isHovered){const intervalId = setInterval(() => {
       setDisplayedReviews(getRandomReviews(customerReviews));
     }, 3000);
 
     return () => clearInterval(intervalId);
   }
-  }, [customerReviews]);
+  }, [customerReviews, isHovered]);
 
 /**
    * Returns a random selection of reviews.
@@ -96,7 +97,7 @@ export default function CardForTestimonials() {
   }
   return (
     <>
-      <Grid container spacing={{ xs: 2, md: 3 }} justifyContent={"center"}>
+      <Grid container spacing={{ xs: 2, md: 3 }} justifyContent={"center"} onMouseEnter={() => setIsHovered(true)} onMouseLeave={() => setIsHovered(false)}>
         {displayedReviews.map((review, index) => (
           <Grid item xs={12} sm={3} md={4} key={index}>
             <Box sx={{ display: "flex", justifyContent: "center", pb: 4, pt: 4 }}>
