@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.667e0907.css",
-    "main.js": "/static/js/main.9e993362.js",
+    "main.css": "/static/css/main.bbec0895.css",
+    "main.js": "/static/js/main.4cbb073d.js",
     "static/js/453.e7e05675.chunk.js": "/static/js/453.e7e05675.chunk.js",
-    "static/media/Landscape.png": "/static/media/Landscape.77275619f6081713293e.png",
-    "static/media/Letterbox.png": "/static/media/Letterbox.f5330d2a27d7047e4a73.png",
-    "static/media/Landscape2.png": "/static/media/Landscape2.3e9db81ced6d101d4043.png",
-    "static/media/Gazebo.png": "/static/media/Gazebo.ab4b30b513c1dfe7385a.png",
-    "static/media/Swingassembly.png": "/static/media/Swingassembly.580eabf28cbbea6baf18.png",
-    "static/media/Gardenbed.png": "/static/media/Gardenbed.76d3aa4cf89a237c89f4.png",
-    "static/media/Officechairs.png": "/static/media/Officechairs.3c6dd7854bc52a6bdea6.png",
     "static/media/homeBackgroundImage.jpg": "/static/media/homeBackgroundImage.336f53432edda8de7a4d.jpg",
-    "static/media/Dishwasher.png": "/static/media/Dishwasher.cdcca64f0086719c9d7c.png",
-    "static/media/Assembly.png": "/static/media/Assembly.f4d92cfe4b4d53d94a88.png",
-    "static/media/Receptiondesk.png": "/static/media/Receptiondesk.33ce90177388b95d3199.png",
-    "static/media/Chestdrawer.png": "/static/media/Chestdrawer.b7527672053bbbd1228f.png",
-    "static/media/rubbishremoval1.png": "/static/media/rubbishremoval1.29823d3aeba4456ba619.png",
+    "static/media/Landscape.jpeg": "/static/media/Landscape.5bed105420aaa91a0b79.jpeg",
+    "static/media/Letterbox.jpeg": "/static/media/Letterbox.adeebb4ff360819d69b0.jpeg",
+    "static/media/Landscape2.jpeg": "/static/media/Landscape2.2ecc100f3ad788b10120.jpeg",
+    "static/media/Gazebo.jpeg": "/static/media/Gazebo.72cbd88f47664e926c3b.jpeg",
+    "static/media/Swingassembly.jpeg": "/static/media/Swingassembly.e288f3d13655956bf0a8.jpeg",
+    "static/media/Gardenbed.jpeg": "/static/media/Gardenbed.90de591c8d98f694f568.jpeg",
+    "static/media/Officechairs.jpeg": "/static/media/Officechairs.e4ce7af0a92cfbc2b219.jpeg",
+    "static/media/Dishwasher.jpeg": "/static/media/Dishwasher.51d0af2f0f98f5545fe7.jpeg",
+    "static/media/Receptiondesk.jpeg": "/static/media/Receptiondesk.462ed6bc42b57e607dd1.jpeg",
+    "static/media/Assembly.jpeg": "/static/media/Assembly.4faa5f0be82dc4e561e1.jpeg",
+    "static/media/Chestdrawer.jpeg": "/static/media/Chestdrawer.10db38291c51b1076157.jpeg",
+    "static/media/rubbishremoval1.jpeg": "/static/media/rubbishremoval1.bddeb39b56c142c4f258.jpeg",
     "static/media/WallMounting.jpg": "/static/media/WallMounting.e1debc66c0fd8864e31a.jpg",
     "static/media/flatpackassembly.jpg": "/static/media/flatpackassembly.0c97316401b8276ffdec.jpg",
     "static/media/fixingwithdrill.jpg": "/static/media/fixingwithdrill.6a0499f005fb3c2d58d2.jpg",
@@ -24,12 +24,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.667e0907.css.map": "/static/css/main.667e0907.css.map",
-    "main.9e993362.js.map": "/static/js/main.9e993362.js.map",
+    "main.bbec0895.css.map": "/static/css/main.bbec0895.css.map",
+    "main.4cbb073d.js.map": "/static/js/main.4cbb073d.js.map",
     "453.e7e05675.chunk.js.map": "/static/js/453.e7e05675.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.667e0907.css",
-    "static/js/main.9e993362.js"
+    "static/css/main.bbec0895.css",
+    "static/js/main.4cbb073d.js"
   ]
 }
