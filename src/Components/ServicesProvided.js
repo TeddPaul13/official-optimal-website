@@ -9,7 +9,7 @@ import Typography from "@mui/material/Typography";
 import { CardActionArea } from "@mui/material";
 import WallMouniting from "../Assets/WallMounting.jpg"
 import FurnitureAssembly from "../Assets/flatpackassembly.jpg"
-import RubbishRemoval from "../Assets/rubbishremoval1.png"
+import RubbishRemoval from "../Assets/rubbishremoval1.jpeg"
 import GeneralMaintenance from "../Assets/fixingwithdrill.jpg"
 import { useNavigate } from "react-router-dom";
 

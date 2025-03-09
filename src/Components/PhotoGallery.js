@@ -11,17 +11,17 @@ import Container from "@mui/material/Container";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import "../App.css";
-import Image1 from "../Assets/Assembly.png";
-import Image2 from "../Assets/Receptiondesk.png";
-import Image3 from "../Assets/Landscape.png";
-import Image4 from "../Assets/Landscape2.png";
-import Image5 from "../Assets/Swingassembly.png";
-import Image6 from "../Assets/Chestdrawer.png";
-import Image7 from "../Assets/Dishwasher.png";
-import Image8 from "../Assets/Letterbox.png";
-import Image9 from "../Assets/Gazebo.png";
-import Image10 from "../Assets/Officechairs.png";
-import Image11 from "../Assets/Gardenbed.png";
+import Image1 from "../Assets/Assembly.jpeg";
+import Image2 from "../Assets/Receptiondesk.jpeg";
+import Image3 from "../Assets/Landscape.jpeg";
+import Image4 from "../Assets/Landscape2.jpeg";
+import Image5 from "../Assets/Swingassembly.jpeg";
+import Image6 from "../Assets/Chestdrawer.jpeg";
+import Image7 from "../Assets/Dishwasher.jpeg";
+import Image8 from "../Assets/Letterbox.jpeg";
+import Image9 from "../Assets/Gazebo.jpeg";
+import Image10 from "../Assets/Officechairs.jpeg";
+import Image11 from "../Assets/Gardenbed.jpeg";
 
 /**
  * Custom arrow component for the next button in the slider.
